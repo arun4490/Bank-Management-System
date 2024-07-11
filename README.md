@@ -1,24 +1,25 @@
-This is a Banking Management System built using the concepts of Object Oriented Programming In C++.
+BANK MANAGEMENT SYSTEM IN C++ WITH SOURCE CODE
 
-Introduction
-The “Bank Account Management System” project is a model Internet Banking Site. This site enables the customers to perform the basic banking transactions by sitting at their office or at homes through PC or laptop. The system provides the access to the customer to create an account, deposit/withdraw the cash from his account, also to view reports of all accounts present. The customers can access the banks website for viewing their Account details and perform the transactions on account as per their requirements. With Internet Banking, the brick and mortar structure of the traditional banking gets converted into a click and portal model, thereby giving a concept of virtual banking a real shape. Thus, today's banking is no longer confined to branches. E-banking facilitates banking transactions by customers round the clock globally.
+About Project Bank Management System is based on a concept of recording customer’s account details. Here the user can perform all the tasks like creating an account, deposit amount, withdraw amount, check balance, view all account holders detail, close an account and modify an account. All the main features for banking system are set in this project.
 
-The primary aim of this “Bank Account Management System” is to provide an improved design methodology, which envisages the future expansion, and modification, which is necessary for a core sector like banking. This necessitates the design to be expandable and modifiable and so a modular approach is used in developing the application software.
+Talking about the features of the Bank Management System, a user can create an account by providing the name of the account holder, account number, select amount type whether its Saving account or Current account and providing an initial amount. Then the user can also deposit and withdraw money just by providing his/her account, then the system displays his/her profile and entering an amount. For certain purpose, he/she can also check for the balance inquiry which displays the account holder’s name with account number type and amount. He/she can also check for all the account holder’s list. Another feature is that the user can also close their account by providing their account number and he/she can modify their account detail and type if they want to.
 
-Anybody who is an Account holder in this bank can become a member of Bank Account Management System. He has to fill a form with his personal details and Account Number. Bank is the place where customers feel the sense of safety for their property. In the bank, customers deposit and withdraw their money. Transaction of money also is a part where customer takes shelter of the bank. Now to keep the belief and trust of customers, there is the positive need for management of the bank, which can handle all this with comfort and ease. Smooth and efficient management affects the satisfaction of the customers and staff members, indirectly. And of course, it encourages management committee in taking some needed decision for future enhancement of the bank.
+This project uses classes and file handling features of C++. In order to store all the user’s data, an external file (DAT file) is created by the system, so every time we get into the system we can operate with the existing accounts. Bank Management System is developed using C++ Programming Language and different variables, strings have been used for the development of it. Bank Management System in C++ Programming with source code is free to download. Use for educational purposes only! This project provides the simplest system for managing banking system.
 
-Now a day’s, managing a bank is tedious job up to certain limit. So software that reduces the work is essential. Also, today’s world is a genuine computer world and is getting faster and faster day-by-day. Thus, considering above necessities, the software for bank management has become necessary which would be useful in managing the bank more efficiently. All transactions are carried out online by transferring from accounts in the same Bank or international bank. The software is meant to overcome the drawbacks of the manual system.
+In order to run the project, you must have installed Dev C++ or Code Blocks on your PC. (we recommend these IDE). For the project demo, have a look at the image slider below.
 
-Abstract
-The Bank Account Management System is an application for maintaining a person's account in a bank. In this project I tried to show the working of a banking account system and cover the basic functionality of a Bank Account Management System. To develop a project for solving financial applications of a customer in banking environment in order to nurture the needs of an end banking user by providing various ways to perform banking tasks. Also, to enable the user’s work space to have additional functionalities which are not provided under a conventional banking project.
+Features:
 
-AIM of this project
-The main aim of designing and developing this Internet banking System C++ primarily based Engineering project is to provide secure and efficient net banking facilities to the banking customers over the internet. Apart for new features Apache Server Pages, MYSQL database used to develop this bank application where all banking customers can login through the secured web page by their account login id and password. Users will have all options and features in that application like get money from western union, money transfer to others, and send cash or money to inter banking as well as other banking customers by simply adding them as payees.
+1.Create an account 
 
-Main Purpose
-The Traditional way of maintaining details of a user in a bank was to enter the details and record them. Every time the user needs to perform some transactions he has to go to bank and perform the necessary actions, which may not be so feasible all the time. It may be a hard-hitting task for the users and the bankers too. The project gives real life understanding of Online Banking System and activities performed by various roles in the supply chain. Here, we provide automation for banking system through Internet. Online Banking System project captures activities performed by different roles in real life banking which provides enhanced techniques for maintaining the required information up-to-date, which results in efficiency. The project gives real life understanding of Online Banking System and activities performed by various roles in the supply chain
+2.Deposit amount
 
-Future Look
-The “Banking Online System is a big and ambitious project. I am thankful for being provided this great opportunity to work on it. As already mentioned, this project has gone through extensive research work. On the basis of the research work, we have successfully designed and implemented banking online System. To know what the future of online banking looks like, it’s probably worth looking at the present – online banking isn’t new. When you think of online banking, you probably think about a computer (either a desktop or laptop), a three or four step security process and then an interface that lets you view the balance of your various bank accounts and credit cards, whilst permitting you to transfer money and pay bills. And you’re not wrong either. The most valuable future looks are following below:
+3.Withdraw amount
 
-1- More branches of the bank, maybe it will be international, that means more ATM machines outside. 2- Customer issues development based on their needs, so the help desk will be aware of their needs and easy to use. 3- Developing a mobile App for banking system that help users to do the obtained his operations without go to the bank only he needs to sign in using his A/C NO. And password and then use your own PIN. Finally the system will update automatically.
+4.Balance Enquiry
+
+5.List account holder’s detail
+
+6.Close an account
+
+7.Modify an account
